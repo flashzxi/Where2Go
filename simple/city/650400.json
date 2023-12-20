@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "name": "吐鲁番市", "adcode": "650400", "telecode": "0995", "level": "city", "center": { "lat": 89.184078, "lng": 42.947613 } }, "geometry": null }
-]
-}

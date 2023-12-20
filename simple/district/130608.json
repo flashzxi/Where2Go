@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "name": "清苑区", "adcode": "130608", "telecode": "0312", "level": "district", "center": { "lat": 115.492221, "lng": 38.771012 } }, "geometry": null }
-]
-}

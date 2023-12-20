@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "name": "下花园区", "adcode": "130706", "telecode": "0313", "level": "district", "center": { "lat": 115.281002, "lng": 40.488645 } }, "geometry": null }
-]
-}
