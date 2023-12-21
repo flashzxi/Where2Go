@@ -5,6 +5,7 @@ from shapely.geometry import Point
 import random
 import os
 
+# 黑名单
 block_list = ["安徽省", "云南省", "西藏自治区", "北京市", "台湾省"]
 
 geo_file_path = './full/district/'
